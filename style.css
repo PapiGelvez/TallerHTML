@@ -1,0 +1,16 @@
+.bordered {
+    border: 10px solid yellowgreen;
+}
+
+.send {
+    background-color: green;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#tituloformulario {
+    font-family: 'Gill Sans';
+    color:aquamarine;
+}
